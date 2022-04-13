@@ -31,7 +31,7 @@ My go to editor is ![WebStorm](https://img.shields.io/badge/webstorm-143?style=f
 
 How to create a social media app using GraphQL, TypeScript, React, Node.js and MongoDB.
 
-## 📚 Most used technologies
+## 📚Favorite technologies
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
