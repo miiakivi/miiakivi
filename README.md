@@ -1,6 +1,5 @@
 ## Hello there 👋 
-I’m Miia, a software developer from Finland specializing in Javascript ✨
-
+Hi there! I'm Miia, a front-end developer with a passion for crafting elegant and user-friendly applications ✨
 
 <!--
 **MiiaNyy/MiiaNyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,21 +14,29 @@ I’m Miia, a software developer from Finland specializing in Javascript ✨
 
 ## 🧙‍♀️ Who I am
 
-I found my passion for coding after I was laid off from my job as a chef in 2020. Suddenly I had all this free time and decided to fulfill my long-term dream and started to learn how to create websites. Pretty quickly I fell in love with the whole process, the problem solving, and the way how creative I could be.
+As a recent graduate of Hyria's software development program (Feb 2022), I learned the importance of self-motivation and independent work, skills that have helped me excel in my career.
 
-Now two years later I am even more passionate and in love for coding and problem solving than before. I have a also a paper that states that I am officially a software developer 🎉
+I started my professional journey as a front-end developer at a small startup, where I honed my ability to work collaboratively with a team and the importance of clear communication. During this time, I sharpened my skills in TypeScript, VueJS, and BackboneJS.
 
-My another passions are traveling 🌍 and everything sci-fi 👽, movies, books, video games you name it.
+After being laid off from my job as a chef in 2020, I found my true passion in coding and problem-solving. I fell in love with the whole process, from brainstorming ideas to executing them flawlessly. Now, three years later, and with a software developer certification under my belt, I'm even more passionate and driven to continue learning and growing as a developer.
+
+When I'm not coding, you can find me traveling to new places or diving headfirst into sci-fi books, movies, and video games. I'm always up for a good adventure and love exploring new worlds, whether they're fictional or not.
+
+Let's connect and create something amazing together
 
 ## 🎨 My skills
 
-My strongest skills are in the frontend technologies like React, HTML, CSS but, Node.js and Express are not unknown to me either. I have worked with NoSQL databases like MongoDB and Firebase Fireship on multiple projects and I have tipped my toes in Azure services. Building and using REST APIs isn't a problem for me and I am started to learn GraphQL.
+I am well-versed in frontend technologies like VueJS, ReactJS, TypeScript, HTML5, and CSS3, and I also have experience with NodeJS and ExpressJS. I have worked on projects involving NoSQL databases such as MongoDB and Firebase Firestore and have dabbled in Azure services. Building and using REST APIs or GraphQL is second nature to me.
 
 My go to editor is ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 
 ## 🌱 I’m currently learning ...
 
-How to create a social media app using GraphQL, TypeScript, React, Node.js and MongoDB.
+Better my skills in TypeScript and VueJS.
+
+## 💬 Ask me about
+
+My ten month trip around Europe in a camper van with my husband and our dog 🚐🌍
 
 ## 📚Favorite technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
